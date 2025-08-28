@@ -13,6 +13,14 @@ The benefits of a Portals ID are two-fold.
 
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
+You can access your Portals space by using the following convention:
+
+https://theportal.to/s/\<Space Slug>
+
+So, in this illustration, it would be:
+
+[https://theportal.to/s/onboarding](https://theportal.to/s/onboarding)
+
 ## How to Purchase
 
 Navigate to [https://theportal.to/portals-id](https://theportal.to/portals-id)
