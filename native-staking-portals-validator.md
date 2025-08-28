@@ -62,3 +62,4 @@ Enter how much SOL you want to stake and click on the Stake button.
 
 <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
+You are now staking natively with the Portals validator!
