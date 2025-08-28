@@ -32,13 +32,13 @@ Native staking and Liquid Staking Tokens (LSTs) both serve the same goal (earnin
 
 * **Native staking** gives you full control over:
   * Which validator you support
-  * Commission rates
+  * Selecting a validator based on the commission rate you pay.
   * Validator decentralization
-* **LSTs** abstract this away — you stake into a pool, and the protocol spreads stake across validators. You lose direct control but gain flexibility.
+* **LSTs** abstract this away - you stake into a pool, and the protocol spreads stake across validators. You lose direct control but gain flexibility.
 
 5\. **Reward Visibility & Liquidity Risk**
 
 * **Native staking rewards** accrue in your stake account and are visible epoch-by-epoch.
 * **LSTs** often auto-compound rewards into the token’s value (e.g., portalsSOL increases in price over time).
-* If you need to exit quickly, LSTs offer liquidity — but in volatile markets, you may get less than your original stake due to price fluctuations.
+* If you need to exit quickly, LSTs offer liquidity - but in volatile markets, you may get less than your original stake due to price fluctuations.
 
