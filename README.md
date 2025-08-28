@@ -14,8 +14,8 @@ Navigate to [https://theportal.to/portals-id](https://theportal.to/portals-id)
 
 Click on the "Connect" button.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Once your wallet is connected, you will be greeted with the Portals ID purchase screen
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
