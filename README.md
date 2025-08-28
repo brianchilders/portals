@@ -9,7 +9,7 @@ The benefits of a Portals ID are two-fold.
 
 * This is done by going to your spaces: [https://theportal.to/dashboard/my-spaces](https://theportal.to/dashboard/my-spaces)
 * Hover over the space tile and click on the gear icon of the space you want to assign the slug to.
-* Pick your Portals ID
+* Pick your desired Portals ID that you wish to use under "Space Slug".
 
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
