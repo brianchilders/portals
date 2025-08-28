@@ -7,7 +7,7 @@ In Solana, every validator operates with two key addresses, each serving a disti
 #### Identity Account
 
 * Name: Validator Identity
-* Purpose: This is the validator’s public key — essentially their “main” account.
+* Purpose: This is the validator’s public key - essentially their "main" account.
 * Used for: Signing transactions, receiving rewards, and managing validator operations.
 * Visibility: Often used to identify the validator in explorers and dashboards.
 
